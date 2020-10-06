@@ -23,6 +23,7 @@ Substring: if we need to rename files with name 1805xyz then the common identifi
 character count: The total number of characters to be taken. ie for 1805xyz it is 7
 
 ![Image of World Mapt](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Process.gif)
+![Image of World Mapt](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Snip.PNG)
 
 ### Results:
 
