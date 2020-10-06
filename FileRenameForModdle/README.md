@@ -1,13 +1,10 @@
 # File Rename Using Python
 
-It is a simple python script to rename unordered files with specific substring to a sorted order.
-It uses KMP string matching algorithm to find the matching substring in O(n) time thus very efficient.
-And renames then with the matching pattern with arbitrary suffix. \
-example: if the filename is: example1805000.txt and the substring is 1805 and the character number to be
-taken be 7, then the changed name will be 1805000_example.txt. \
-Also by simply editing the py file it can be chaned to as like 1805022_example1805000.txt \
+It is a simple python script to rename unordered files with specific substring to a sorted order. It uses KMP string matching algorithm to find the matching substring in O(n) time thus very efficient. And renames then with the matching pattern with arbitrary suffix. 
+example: if the filename is: example1805000.txt and the substring is 1805 and the character number to be taken be 7, then the changed name will be 1805000_example.txt. 
+Also by simply editing the py file it can be chaned to as like 1805022_example1805000.txt 
 
-##Working Procedure:
+## Working Procedure:
 
 ### Saving the path
  At first copy the path of the folder in which the files to be rename are saved. \
