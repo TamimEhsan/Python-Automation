@@ -19,13 +19,18 @@ Path: Path where the files are saved \
 Substring: if we need to rename files with name 1805xyz then the common identifier will be 1805
 character count: The total number of characters to be taken. ie for 1805xyz it is 7
 
-![Image of World Mapt](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Process.gif)
-![Image of World Mapt](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Snip.PNG)
+![Image of process](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Process.gif)
+![Image result](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Snip.PNG)
 
 ### Results:
 
 #### Before:
-![Image of World Mapt](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Before.PNG)
+![Beofre Image](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/Before.PNG)
 
 #### After:
-![Image of World Mapt](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/After.PNG)
+![After Image](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/After.PNG)
+
+### GUI
+
+You can also use the simple GUI. This one has an extra option to rename the file in 2 way. One with original filename and the other with cut one
+![Image of GUI](https://github.com/TamimEhsan/Python-Automation/blob/master/FileRenameForModdle/Assets/gui.PNG)
